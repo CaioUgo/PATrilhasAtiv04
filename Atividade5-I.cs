@@ -18,5 +18,5 @@ class Program
         
         Console.WriteLine("\n\rAperte alguma tecla para fechar...");
 		Console.ReadKey(true);
-    }
+  }
 }
