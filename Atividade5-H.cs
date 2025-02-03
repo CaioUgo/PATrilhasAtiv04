@@ -13,7 +13,7 @@ class Program
         Console.WriteLine(mensagem);
         
         Console.WriteLine("\n\rAperte alguma tecla para fechar...");
-		Console.ReadKey(true);
+	Console.ReadKey(true);
 
     }
 }
